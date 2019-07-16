@@ -31,6 +31,7 @@ The program print the number of pieces, and there coordinates.
 
 
 Here is the way to execute it :
-'''
+```
 java -jar out/artifacts/Mosaic_jar/Mosaic.jar 'File containing the map'
-'''
+```
+
